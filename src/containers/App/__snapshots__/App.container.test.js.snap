@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render an App 1`] = `
+<div
+  className="App"
+>
+  <header>
+    <div
+      className="hr"
+    />
+    <div
+      className="headerContent"
+    >
+      <div
+        className="logo"
+      >
+        BS
+      </div>
+      <div
+        className="headerText"
+      >
+        The Book Shelf
+      </div>
+    </div>
+    <div
+      className="hr"
+    />
+  </header>
+  <div
+    className="authorGroup"
+  >
+    <div
+      className="author"
+    >
+      JK Rowling
+    </div>
+    <div
+      className="books"
+    >
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="authorGroup"
+  >
+    <div
+      className="author"
+    >
+      Sydney Sheldon
+    </div>
+    <div
+      className="books"
+    >
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="book"
+      >
+        <img
+          alt="Book cover"
+          className="bookCover"
+          src="cover_image.jpeg"
+        />
+        <div
+          className="bookTitle"
+        >
+          Harry Potter and The Sorcerers Stone
+        </div>
+        <div
+          className="bookAppreciation"
+        >
+          <div
+            className="bookRating"
+          >
+            4.5
+          </div>
+          <div
+            className="bookLikeButton"
+          >
+            <img
+              alt="like book"
+              src={
+                Object {
+                  "ReactComponent": [Function],
+                  "__esModule": true,
+                  "default": "heart-red.svg",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
