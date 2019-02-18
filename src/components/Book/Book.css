@@ -1,10 +1,11 @@
 .book {
   display: flex;
   flex-direction: column;
-  width: 30%;
-  min-width: 200px;
+  width: 15%;
+  min-width: 400px;
   align-items: stretch;
   font-size: 30px;
+  margin: 10px;
 }
 
 .book .bookCover {

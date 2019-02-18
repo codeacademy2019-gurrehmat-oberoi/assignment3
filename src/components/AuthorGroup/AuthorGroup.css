@@ -1,0 +1,28 @@
+.authorGroup {
+  border: 3px solid;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin: 20px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+.authorGroup .author {
+  align-self: center;
+  font-size: 30px;
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.authorGroup .books{
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}

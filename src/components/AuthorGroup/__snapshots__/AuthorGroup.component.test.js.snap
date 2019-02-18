@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Author Group should render an author group 1`] = `
+<div
+  className="authorGroup"
+>
+  <div
+    className="author"
+  >
+    JK Rowling
+  </div>
+  <div
+    className="books"
+  >
+    <div
+      className="book"
+    >
+      <img
+        alt="Book cover"
+        className="bookCover"
+        src="cover_image.jpeg"
+      />
+      <div
+        className="bookTitle"
+      >
+        Harry Potter and The Sorcerers Stone
+      </div>
+      <div
+        className="bookAppreciation"
+      >
+        <div
+          className="bookRating"
+        >
+          4.5
+        </div>
+        <div
+          className="bookLikeButton"
+        >
+          <img
+            alt="like book"
+            src={
+              Object {
+                "ReactComponent": [Function],
+                "__esModule": true,
+                "default": "heart-red.svg",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="book"
+    >
+      <img
+        alt="Book cover"
+        className="bookCover"
+        src="cover_image.jpeg"
+      />
+      <div
+        className="bookTitle"
+      >
+        Harry Potter and The Sorcerers Stone
+      </div>
+      <div
+        className="bookAppreciation"
+      >
+        <div
+          className="bookRating"
+        >
+          4.5
+        </div>
+        <div
+          className="bookLikeButton"
+        >
+          <img
+            alt="like book"
+            src={
+              Object {
+                "ReactComponent": [Function],
+                "__esModule": true,
+                "default": "heart-red.svg",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="book"
+    >
+      <img
+        alt="Book cover"
+        className="bookCover"
+        src="cover_image.jpeg"
+      />
+      <div
+        className="bookTitle"
+      >
+        Harry Potter and The Sorcerers Stone
+      </div>
+      <div
+        className="bookAppreciation"
+      >
+        <div
+          className="bookRating"
+        >
+          4.5
+        </div>
+        <div
+          className="bookLikeButton"
+        >
+          <img
+            alt="like book"
+            src={
+              Object {
+                "ReactComponent": [Function],
+                "__esModule": true,
+                "default": "heart-red.svg",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
