@@ -1,0 +1,27 @@
+.book {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  min-width: 200px;
+  align-items: stretch;
+  font-size: 30px;
+}
+
+.book .bookCover {
+  width: 100%;
+}
+
+.book .bookTitle {
+  text-align: center;
+}
+
+.book .bookAppreciation{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.book .bookAppreciation .bookLikeButton {
+  width: 25px;
+}
